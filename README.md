@@ -6,6 +6,8 @@ Below you have a series of problems in which you are asked to edit the notebook 
 After making your changes to the notebook, you will need to upload it to GitHub.
 
 - Don't forget to check out the [hints for this week's exercise](https://geo-python-site.readthedocs.io/en/latest/lessons/L3/exercise-3.html#exercise-3-hints) if you're having trouble.
+- **Exercise 3 is due by the start of the next lesson (9:15 am, 23 September 2020)**.
+- **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise. 
 
 
 ## Before you start
